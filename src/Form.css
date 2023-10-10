@@ -1,4 +1,5 @@
 .registerform{
     text-align: left;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    padding: 5px;
 }
